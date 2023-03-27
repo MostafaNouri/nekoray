@@ -1,0 +1,23 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "gr.i2fed.com",
+        "name": "Trojan-D-GERMANY",
+        "pass": "fe2412e4-151f-4eef-abb9-ea2c691f9fd2",
+        "port": 3000,
+        "stream": {
+            "ed_len": 0,
+            "insecure": false,
+            "net": "tcp",
+            "sec": "tls"
+        }
+    },
+    "gid": 1,
+    "id": 24,
+    "traffic": {
+        "dl": 0,
+        "ul": 0
+    },
+    "type": "trojan",
+    "yc": 0
+}

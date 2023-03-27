@@ -1,0 +1,28 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "address.newcars.pw",
+        "aid": 0,
+        "id": "1c634d65-9b7b-4a99-8991-9bcdcd35cc7c",
+        "name": "تست کن",
+        "port": 2083,
+        "sec": "auto",
+        "stream": {
+            "ed_len": 0,
+            "host": "bat1.newcars.pw",
+            "insecure": false,
+            "net": "ws",
+            "path": "wss20341",
+            "sec": "tls",
+            "sni": "dnd.newcars.pw"
+        }
+    },
+    "gid": 0,
+    "id": 25,
+    "traffic": {
+        "dl": 3311293068,
+        "ul": 24123912
+    },
+    "type": "vmess",
+    "yc": 0
+}

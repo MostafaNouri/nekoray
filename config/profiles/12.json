@@ -1,0 +1,27 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "address.newcars.pw",
+        "name": "Test",
+        "port": 2083,
+        "stream": {
+            "alpn": "http/1.1",
+            "ed_len": 0,
+            "host": "bat1.newcars.pw",
+            "insecure": false,
+            "net": "ws",
+            "path": "wss20341",
+            "sec": "tls",
+            "sni": "dnd.newcars.pw"
+        },
+        "v": 5
+    },
+    "gid": "1c634d65-9b7b-4a99-8991-9bcdcd35cc7c",
+    "id": 1,
+    "traffic": {
+        "dl": 0,
+        "ul": 1101
+    },
+    "type": "vmess",
+    "yc": 0
+}

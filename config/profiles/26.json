@@ -1,0 +1,24 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "t1.teslacdn2.live",
+        "name": "t1.teslacdn2.live-trojan",
+        "pass": "e83fc0d1-9bed-4863-8da9-a81a6e0c4dfa",
+        "port": 443,
+        "stream": {
+            "ed_len": 0,
+            "insecure": false,
+            "net": "tcp",
+            "sec": "tls",
+            "sni": "t1.teslacdn2.live"
+        }
+    },
+    "gid": 0,
+    "id": 26,
+    "traffic": {
+        "dl": 403369399,
+        "ul": 9286820
+    },
+    "type": "trojan",
+    "yc": 0
+}
